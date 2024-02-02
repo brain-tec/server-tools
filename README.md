@@ -7,6 +7,12 @@
 
 <!-- /!\ do not modify above this line -->
 
+# braintec project branch
+
+This project branch was created due to the following PRs:
+
+- https://github.com/OCA/server-tools/pull/2824
+
 # server-tools
 
 TODO: add repo description.
