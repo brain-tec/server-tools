@@ -35,12 +35,12 @@ addon | version | maintainers | summary
 [base_fontawesome](base_fontawesome/) | 16.0.6.6.1 |  | Up to date Fontawesome resources.
 [base_force_record_noupdate](base_force_record_noupdate/) | 16.0.1.0.0 |  | Manually force noupdate=True on models
 [base_import_default_enable_tracking](base_import_default_enable_tracking/) | 16.0.1.0.0 | [![benwillig](https://github.com/benwillig.png?size=30px)](https://github.com/benwillig) | This modules simply enables history tracking when doing an import.
-[base_import_odoo](base_import_odoo/) | 16.0.1.0.0 | [![hbrunn](https://github.com/hbrunn.png?size=30px)](https://github.com/hbrunn) [![thomaspaulb](https://github.com/thomaspaulb.png?size=30px)](https://github.com/thomaspaulb) | Import records from another Odoo instance
+[base_import_odoo](base_import_odoo/) | 16.0.1.0.1 | [![hbrunn](https://github.com/hbrunn.png?size=30px)](https://github.com/hbrunn) [![thomaspaulb](https://github.com/thomaspaulb.png?size=30px)](https://github.com/thomaspaulb) | Import records from another Odoo instance
 [base_m2m_custom_field](base_m2m_custom_field/) | 16.0.1.0.0 |  | Customizations of Many2many
 [base_multi_image](base_multi_image/) | 16.0.1.0.1 |  | Allow multiple images for database objects
 [base_name_search_improved](base_name_search_improved/) | 16.0.1.0.2 |  | Friendlier search when typing in relation fields
 [base_partition](base_partition/) | 16.0.1.0.0 |  | Base module that provide the partition method on all models
-[base_remote](base_remote/) | 16.0.1.0.1 |  | Remote Base
+[base_remote](base_remote/) | 16.0.1.0.2 |  | Remote Base
 [base_search_fuzzy](base_search_fuzzy/) | 16.0.1.0.0 |  | Fuzzy search with the PostgreSQL trigram extension
 [base_sequence_default](base_sequence_default/) | 16.0.1.0.2 | [![Shide](https://github.com/Shide.png?size=30px)](https://github.com/Shide) [![yajo](https://github.com/yajo.png?size=30px)](https://github.com/yajo) [![rafaelbn](https://github.com/rafaelbn.png?size=30px)](https://github.com/rafaelbn) | Use sequences for default values of fields when creating a new record
 [base_sequence_option](base_sequence_option/) | 16.0.1.0.1 | [![kittiu](https://github.com/kittiu.png?size=30px)](https://github.com/kittiu) | Alternative sequence options for specific models
