@@ -47,6 +47,8 @@ msgstr ""
 #: model:ir.model.fields,field_description:autovacuum_message_attachment.field_base_language_export__assigned_attachment_ids
 #: model:ir.model.fields,field_description:autovacuum_message_attachment.field_base_language_import__assigned_attachment_ids
 #: model:ir.model.fields,field_description:autovacuum_message_attachment.field_base_language_install__assigned_attachment_ids
+#: model:ir.model.fields,field_description:autovacuum_message_attachment.field_base_module_install_request__assigned_attachment_ids
+#: model:ir.model.fields,field_description:autovacuum_message_attachment.field_base_module_install_review__assigned_attachment_ids
 #: model:ir.model.fields,field_description:autovacuum_message_attachment.field_base_module_uninstall__assigned_attachment_ids
 #: model:ir.model.fields,field_description:autovacuum_message_attachment.field_base_module_update__assigned_attachment_ids
 #: model:ir.model.fields,field_description:autovacuum_message_attachment.field_base_module_upgrade__assigned_attachment_ids
@@ -160,6 +162,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:autovacuum_message_attachment.field_mail_alias_mixin_optional__assigned_attachment_ids
 #: model:ir.model.fields,field_description:autovacuum_message_attachment.field_mail_blacklist__assigned_attachment_ids
 #: model:ir.model.fields,field_description:autovacuum_message_attachment.field_mail_blacklist_remove__assigned_attachment_ids
+#: model:ir.model.fields,field_description:autovacuum_message_attachment.field_mail_bot__assigned_attachment_ids
 #: model:ir.model.fields,field_description:autovacuum_message_attachment.field_mail_compose_message__assigned_attachment_ids
 #: model:ir.model.fields,field_description:autovacuum_message_attachment.field_mail_composer_mixin__assigned_attachment_ids
 #: model:ir.model.fields,field_description:autovacuum_message_attachment.field_mail_followers__assigned_attachment_ids
@@ -229,6 +232,9 @@ msgstr ""
 #: model:ir.model.fields,field_description:autovacuum_message_attachment.field_mail_wizard_invite__assigned_attachment_ids
 #: model:ir.model.fields,field_description:autovacuum_message_attachment.field_phone_blacklist__assigned_attachment_ids
 #: model:ir.model.fields,field_description:autovacuum_message_attachment.field_phone_blacklist_remove__assigned_attachment_ids
+#: model:ir.model.fields,field_description:autovacuum_message_attachment.field_privacy_log__assigned_attachment_ids
+#: model:ir.model.fields,field_description:autovacuum_message_attachment.field_privacy_lookup_wizard__assigned_attachment_ids
+#: model:ir.model.fields,field_description:autovacuum_message_attachment.field_privacy_lookup_wizard_line__assigned_attachment_ids
 #: model:ir.model.fields,field_description:autovacuum_message_attachment.field_publisher_warranty_contract__assigned_attachment_ids
 #: model:ir.model.fields,field_description:autovacuum_message_attachment.field_report_base_report_irmodulereference__assigned_attachment_ids
 #: model:ir.model.fields,field_description:autovacuum_message_attachment.field_report_layout__assigned_attachment_ids
