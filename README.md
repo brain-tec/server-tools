@@ -1,4 +1,7 @@
 
+[![Support the OCA](https://odoo-community.org/readme-banner-image)](https://odoo-community.org/get-involved?utm_source=repo-readme)
+
+# server-tools
 [![Runboat](https://img.shields.io/badge/runboat-Try%20me-875A7B.png)](https://runboat.odoo-community.org/builds?repo=OCA/server-tools&target_branch=16.0)
 [![Pre-commit Status](https://github.com/OCA/server-tools/actions/workflows/pre-commit.yml/badge.svg?branch=16.0)](https://github.com/OCA/server-tools/actions/workflows/pre-commit.yml?query=branch%3A16.0)
 [![Build Status](https://github.com/OCA/server-tools/actions/workflows/test.yml/badge.svg?branch=16.0)](https://github.com/OCA/server-tools/actions/workflows/test.yml?query=branch%3A16.0)
@@ -6,8 +9,6 @@
 [![Translation Status](https://translation.odoo-community.org/widgets/server-tools-16-0/-/svg-badge.svg)](https://translation.odoo-community.org/engage/server-tools-16-0/?utm_source=widget)
 
 <!-- /!\ do not modify above this line -->
-
-# server-tools
 
 TODO: add repo description.
 
@@ -86,7 +87,7 @@ addon | version | maintainers | summary
 [server_action_logging](server_action_logging/) | 16.0.1.0.0 |  | Module that provides a logging mechanism for server actions
 [session_db](session_db/) | 16.0.1.0.7 | <a href='https://github.com/sbidoul'><img src='https://github.com/sbidoul.png' width='32' height='32' style='border-radius:50%;' alt='sbidoul'/></a> | Store sessions in DB
 [test_auditlog](test_auditlog/) | 16.0.1.0.2 |  | Additional unit tests for Audit Log based on accounting models
-[tracking_manager](tracking_manager/) | 16.0.1.1.9 | <a href='https://github.com/Kev-Roche'><img src='https://github.com/Kev-Roche.png' width='32' height='32' style='border-radius:50%;' alt='Kev-Roche'/></a> <a href='https://github.com/sebastienbeau'><img src='https://github.com/sebastienbeau.png' width='32' height='32' style='border-radius:50%;' alt='sebastienbeau'/></a> | This module tracks all fields of a model, including one2many and many2many ones.
+[tracking_manager](tracking_manager/) | 16.0.1.1.10 | <a href='https://github.com/Kev-Roche'><img src='https://github.com/Kev-Roche.png' width='32' height='32' style='border-radius:50%;' alt='Kev-Roche'/></a> <a href='https://github.com/sebastienbeau'><img src='https://github.com/sebastienbeau.png' width='32' height='32' style='border-radius:50%;' alt='sebastienbeau'/></a> | This module tracks all fields of a model, including one2many and many2many ones.
 [upgrade_analysis](upgrade_analysis/) | 16.0.1.2.1 | <a href='https://github.com/StefanRijnhart'><img src='https://github.com/StefanRijnhart.png' width='32' height='32' style='border-radius:50%;' alt='StefanRijnhart'/></a> <a href='https://github.com/legalsylvain'><img src='https://github.com/legalsylvain.png' width='32' height='32' style='border-radius:50%;' alt='legalsylvain'/></a> | Performs a difference analysis between modules installed on two different Odoo instances
 [url_attachment_search_fuzzy](url_attachment_search_fuzzy/) | 16.0.1.0.0 | <a href='https://github.com/mariadforgelow'><img src='https://github.com/mariadforgelow.png' width='32' height='32' style='border-radius:50%;' alt='mariadforgelow'/></a> | Fuzzy Search of URL in Attachments
 
